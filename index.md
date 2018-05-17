@@ -47,3 +47,15 @@ leader which is selected using a round robin mechanism.
 ## References
 
 [1] L. Lamport, R. E. Shostak, and M. C. Pease. The byzantine generals problem. ACM, 4(3):382–401, 1982.
+
+
+
+## Sample
+
+![](i/islandcoin-day1.png)
+
+![](i/islandcoin-day2.png)
+
+![](i/islandcoin-day3.png)
+
+![](i/islandcoin-day5.png)
