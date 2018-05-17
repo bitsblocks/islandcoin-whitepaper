@@ -1,15 +1,12 @@
-<!--
 
 See the live version @ [`bitsblocks.github.io/islandcoin-whitepaper`](http://bitsblocks.github.io/islandcoin-whitepaper)
 
 ---
 
--->
-
 
 # IslandCoin White Paper - How to Run a Blockchain on a Deserted Island with Pen and Paper (Manuscripts Book Edition)
 
-by Tal Kol 
+by Tal Kol
 
 > Note: This is the original document reformatted in a single-page book edition
 >  (using the [Manuscripts format](http://manuscripts.github.io)).

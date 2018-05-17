@@ -1,0 +1,14 @@
+######################
+#  Table of Contents
+
+- title: IslandCoin
+  path:  index.md
+  sections:
+  - title: Motivation
+  - title: Consensus
+  - title: Transaction and Block Specification
+    sections:
+    - title: Transaction format
+    - title: Block format
+    - title: Genesis block
+  - title: References

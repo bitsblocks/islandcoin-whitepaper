@@ -2,7 +2,8 @@
 title: IslandCoin White Paper
 ---
 
-Persons: Hugo, Sawyer, Kate, Jack
+Survivors: Hugo (H), Sawyer (S), Kate (K), Jack (J)
+
 
 
 ## Motivation
@@ -15,7 +16,7 @@ introducing a novel cryptographic currency - IslandCoin.
 
 ## Consensus
 
-The consensus algorithm for IslandCoin is based on a consortium of 4 members [H, S, K, J]. 
+The consensus algorithm for IslandCoin is based on a consortium of 4 members [H, S, K, J].
 It is a permissioned leader-based
 algorithm that is tolerant to Byzantine behavior [1] of up to 1/3
 of the network. The algorithm requires a majority vote of over 50%
@@ -46,5 +47,3 @@ leader which is selected using a round robin mechanism.
 ## References
 
 [1] L. Lamport, R. E. Shostak, and M. C. Pease. The byzantine generals problem. ACM, 4(3):382–401, 1982.
-
-
